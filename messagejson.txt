@@ -1,0 +1,20 @@
+messagesJson
+
+{
+type : "ANOUNCEMENT",
+path :"org:CAS/orgUnit:SF/",
+subject : "Welcome",
+body : "Hello ! How are You ?"
+sentBy : "",
+senderName : "",
+emailNotificationEnabled:true,
+smsNotificationEnabled:true,
+publishedToWebsite :true,
+createdDate: new Date(),
+effectiveFromDate : Date(),
+effectiveToDate : Date(),
+noOfDays:10,
+readedBy : [{}],
+attachmentDetails : [{id:"",originalName:"",contentType : ""}],
+
+}
